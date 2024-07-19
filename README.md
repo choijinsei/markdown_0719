@@ -1,6 +1,9 @@
 # markdown_0719
 markdown_0719
 
+### 12. 이미지 링크
+
+
 ### 11. 수학 수식: LaTex구문
 $$
 \sum_{i=1}^{n}i = \frac{n(n+1)}{2}
